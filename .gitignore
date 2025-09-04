@@ -1,6 +1,5 @@
 # Ignore specific folders
 mentee_info/
-img/
 data/
 
 # Python cache and build files
