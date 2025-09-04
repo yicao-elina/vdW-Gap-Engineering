@@ -233,7 +233,7 @@ Interested in extending this work? Contact us at [your-email@jhu.edu](mailto:you
 
 **For now, please cite this repository:**
 ```
-Cao, Y., Pilla, J. (2024). A Universal Framework for van der Waals Gap Engineering. 
+Cao, Y., Clancy, P (2024). A Universal Framework for van der Waals Gap Engineering. 
 GitHub repository: https://github.com/yicao-elina/vdW-Gap-Engineering
 ```
 
