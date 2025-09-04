@@ -1,3 +1,37 @@
+# Ignore specific folders
 mentee_info/
 img/
 data/
+
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+build/
+dist/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE/project settings
+.vscode/
+.idea/
+*.swp
+
+# Backup files
+*~
