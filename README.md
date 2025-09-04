@@ -224,9 +224,9 @@ Interested in extending this work? Contact us at [your-email@jhu.edu](mailto:you
 ```bibtex
 @article{cao2024universal,
   title={A Universal Framework for van der Waals Gap Engineering via Intercalation},
-  author={Cao, Yi and Pilla, Joshitha and [PI Name]},
+  author={Cao, Yi and  Wu, Victor and Clancy, Paulette},
   journal={npj 2D Materials and Applications},
-  year={2024},
+  year={2025},
   note={Under Review}
 }
 ```
@@ -247,17 +247,23 @@ GitHub repository: https://github.com/yicao-elina/vdW-Gap-Engineering
 <img src="https://github.com/yicao-elina.png" width="100px;" alt="Yi Cao"/><br />
 <b>Yi Cao</b><br />
 <sub>PhD Candidate, Johns Hopkins University</sub><br />
-<sub>AI-Driven Computational Materials Science</sub>
+<sub>Chemical & Biomolecular Engineering</sub>
 </td>
 <td align="center">
+<img src="https://github.com/joshitha-pilla.png" width="100px;" alt="Victor Wu"/><br />
+<b>Victor Wu</b><br />
+<sub>Undergraduate Student, Johns Hopkins University</sub><br />
+<sub>Chemical & Biomolecular Engineering</sub>
+</td>
+<!-- <td align="center">
 <img src="https://github.com/joshitha-pilla.png" width="100px;" alt="Joshitha Pilla"/><br />
 <b>Joshitha Pilla</b><br />
 <sub>MS Student, Johns Hopkins University</sub><br />
 <sub>Machine Learning & Materials Engineering</sub>
-</td>
+</td> -->
 <td align="center">
 <img src="https://github.com/pi-name.png" width="100px;" alt="PI Name"/><br />
-<b>[PI Name]</b><br />
+<b>Paulette Clancy</b><br />
 <sub>Professor, Johns Hopkins University</sub><br />
 <sub>Principal Investigator</sub>
 </td>
