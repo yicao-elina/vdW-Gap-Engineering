@@ -1,0 +1,14 @@
+{
+    "Cr": {
+        "weight": 51.996,
+        "file": "Cr.pbe-spn-kjpaw_psl.1.0.0.UPF"
+    },
+    "Sb": {
+        "weight": 121.76,
+        "file": "Sb.pbe-n-kjpaw_psl.1.0.0.UPF"
+    },
+    "Te": {
+        "weight": 127.6,
+        "file": "Te.pbe-n-kjpaw_psl.1.0.0.UPF"
+    }
+}
